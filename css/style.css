@@ -1,0 +1,94 @@
+/* Fonts*/
+/* h1{
+    font-size: 16px; 
+    font-size: 70px;
+    font-style: normal; 
+    font-style: italic;
+    font-weight: bold ; 
+    color: blueviolet;
+    font-family: "Satisfy", cursive;
+
+
+} */
+
+/* p{
+    font-family: "Abril Fatface", serif;
+} */
+
+/* Margin , Pdding , Float*/
+/* .parent{
+    background-color: black;
+}
+.first{
+    height: 300px;
+    width: 300px;
+    background-color: red;
+    float: left;
+    margin-right: 50px;
+    padding-left: 50px;
+    margin-left: 20px;
+}
+.firstChild{
+    height: 100px;
+    width: 100px;
+    background-color: teal;
+    margin: auto;
+    margin-top: 50px;
+}
+.second{
+    height: 300px;
+    width: 300px;
+    background-color: blue;
+    float: left;
+    margin-left: 50px;
+
+}
+.clearfix{
+    clear: left;
+} */
+
+body{
+    
+    margin: 0;
+}
+
+.home{
+    background-color: black;
+    height: 100vh; /* View Port Height*/
+    text-align: center;
+}
+
+.caption h1{
+    font-family: "Dancing Script", cursive;
+    font-weight: bolder;
+    color: #f4ddb3
+
+    ;
+    font-size: 35px;
+}
+.caption img{
+    margin-top: 30px;
+    border-radius: 30px;
+}
+.caption p{
+    font-family: Abril;
+    color: white;
+}
+
+.caption button {
+    border-radius: 8px;
+    height: 28px;
+    width: 100px;
+}
+
+.caption button:hover{
+    height: 32px;
+    background-color: #f4ddb3;
+    color: black;
+    width: 110px;
+}
+
+
+
+
+
